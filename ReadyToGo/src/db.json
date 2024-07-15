@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "6446",
+      "name": "Biglietti volo",
+      "completed": false
+    },
+    {
+      "id": "fa6f",
+      "name": "Chiavi",
+      "completed": false
+    },
+    {
+      "id": "dcb0",
+      "name": "Ombrellone",
+      "completed": false
+    },
+    {
+      "id": "ff7b",
+      "name": "Cibo",
+      "completed": false
+    },
+    {
+      "id": "4b35",
+      "name": " Chiavi auto",
+      "completed": false
+    },
+    {
+      "id": "4f77",
+      "name": "Suocera? naa meglio di no",
+      "completed": false
+    }
+  ]
+}
